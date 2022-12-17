@@ -13,6 +13,5 @@ zip/
 *.json
 *.csv
 *.tsv
-*.txt
 *.pkl
 tmp/
