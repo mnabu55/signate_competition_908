@@ -1,0 +1,17 @@
+.idea/
+
+cats_and_dogs_filtered/
+horse-or-human/
+validation-horse-or-human/
+
+my_dir/
+cert/
+
+*.zip
+*.h5
+*.json
+*.csv
+*.tsv
+*.txt
+*.pkl
+tmp/
